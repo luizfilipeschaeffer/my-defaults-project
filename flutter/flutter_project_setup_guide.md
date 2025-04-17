@@ -316,13 +316,15 @@ final router = GoRouter(
 ## 11. Passos para Inicialização do Projeto
 
 1. **Criar Novo Projeto**:
+
    ```bash
    flutter create meu_projeto
    cd meu_projeto
    ```
 
 2. **Configurar Estrutura de Pastas**:
-   ```bash
+
+```bash
    # Estrutura base
    mkdir -p lib/src/{controllers,data,domain,infrastructure,ui}
 
